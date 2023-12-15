@@ -1,0 +1,8 @@
+galaxy_info:
+  author: Ed Hunt
+  description: Palo Alto Firewall Objects
+  company: your company (optional)
+  license: BSD
+  min_ansible_version: 2.1
+  galaxy_tags: ['fw_objects']
+dependencies: []
